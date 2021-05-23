@@ -1,0 +1,8 @@
+Capomulin and Ramicane were documented to be the top two drugs administered to the mice population. They were also the most effective on average compared to 
+Infubinol and Ceftamin with having smaller tumors at the end of the regimens.
+
+With regards to Capomulin, the heavier the mouse, the larger the tumor volume was, due to a linear regession analysis comparing weight and tumor volume.
+A correlation coefficient of 0.84 showed how closely weight and tumor volume affected each other.
+
+Capomulin treatment generally had a profound effect on tumor volume change. Volume would increase for at most 20 days at a time and then begin to decrease. 
+Other treatments using the other drugs such as Infubinol had little to no effect on tumor growth.
